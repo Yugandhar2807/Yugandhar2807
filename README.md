@@ -1,22 +1,20 @@
-<!-- ===================== TOP BANNER ===================== -->
+# Hi, I'm Yugandhar N 🏴‍☠️
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,16,2,30&height=220&section=header&text=Yugandhar%20N&fontSize=70&fontAlignY=35&fontColor=ffffff&desc=Junior%20Software%20Developer%20%E2%80%A2%20Fresh%20B.Tech%20Grad%20%E2%80%A2%20Setting%20Sail%20on%20the%20Microsoft%20Stack&descAlignY=58&descSize=18&animation=fadeIn" alt="banner" />
 </p>
 
-<!-- ===================== TYPING SUBTITLE ===================== -->
 <p align="center">
   <a href="https://github.com/Yugandhar2807">
     <img src="https://readme-typing-svg.demolab.com/?lines=%E2%9A%93+Junior+Software+Developer+%40+Beessoftware;%F0%9F%8C%8A+Fresh+B.Tech+Grad+(Apr+2026);%E2%9A%94%EF%B8%8F+.NET+%2B+SQL+Server+%2B+Power+BI+%2B+Fabric;%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+Hunting+for+the+One+Piece+of+Code&font=Fira%20Code&center=true&width=720&height=42&color=DC143C&size=22&pause=1000" alt="typing-svg" />
   </a>
 </p>
 
-<!-- ===================== HERO QUOTE ===================== -->
 <blockquote align="center">
   <i>"I don't want to conquer anything. I just think the guy with the most freedom on the seas is the King of the Pirates."</i><br>
   — <b>Monkey D. Luffy</b>
 </blockquote>
 
-<!-- ===================== TOP STATS BAR ===================== -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Yugandhar2807&label=Profile%20Visits&color=DC143C&style=for-the-badge" alt="visits" />
   <img src="https://img.shields.io/github/followers/Yugandhar2807?label=Followers&style=for-the-badge&color=DC143C&labelColor=000000" alt="followers" />
@@ -171,7 +169,6 @@ I'm a **fresh B.Tech (Computer Science) graduate (April 2026)** who set sail on 
 
 ---
 
-<!-- ===================== BOTTOM BANNER ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,16,20,30&height=120&section=footer&text=%22I'm%20gonna%20be%20King%20of%20the%20Pirates!%22&fontSize=22&fontColor=ffffff&fontAlignY=70&animation=fadeIn" alt="footer" />
 </p>

@@ -10,6 +10,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://media.tenor.com/frosu3eUPmYAAAAM/monkey-d-luffy.gif" width="380" alt="Monkey D. Luffy" />
+</p>
+
 <blockquote align="center">
   <i>"I don't want to conquer anything. I just think the guy with the most freedom on the seas is the King of the Pirates."</i><br>
   — <b>Monkey D. Luffy</b>

@@ -11,6 +11,12 @@
 </p>
 
 <p align="center">
+  <a href="https://yugandhar-portfolio-silk.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-Know_me_in_30_seconds-8B5CF6?style=for-the-badge&labelColor=05011A" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/yugandhar-nunna-b196b6313/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=05011A" alt="LinkedIn" /></a>
+  <a href="mailto:nunnayugandhar2807@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hi-DC143C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=05011A" alt="Email" /></a>
+</p>
+
+<p align="center">
   <img src="https://media.tenor.com/frosu3eUPmYAAAAM/monkey-d-luffy.gif" width="380" alt="Monkey D. Luffy" />
 </p>
 
@@ -242,6 +248,7 @@ I'm a **fresh B.Tech (Computer Science) graduate (April 2026)** who set sail on 
 ## 🤝 Form an alliance
 
 <p align="center">
+  <a href="https://yugandhar-portfolio-silk.vercel.app"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/yugandhar-nunna-b196b6313/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:nunnayugandhar2807@gmail.com"><img src="https://img.shields.io/badge/Gmail-DC143C?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Yugandhar2807"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>

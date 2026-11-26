@@ -104,7 +104,7 @@ I'm a **fresh B.Tech (Computer Science) graduate (April 2026)** who set sail on 
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-<img src="https://img.shields.io/badge/SonarCloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white" />
+<img src="https://img.shields.io/badge/SonarCloud-F3702A?style=for-the-badge&logo=sonarqubecloud&logoColor=white" />
 <img src="https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white" />
 <img src="https://img.shields.io/badge/IIS-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
